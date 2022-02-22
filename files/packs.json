@@ -7,8 +7,8 @@
         "icon": "mob packet.png",
         "creator": "Viska & Mira_23",
         "categories": [
-            "1;All Skyblock",
-            "2;Recommended Skyblock"
+            "3;Skyblock",
+            "4;Recommended Skyblock"
         ],
         "actions": [
             {
@@ -20,7 +20,7 @@
                 "link": "https://hypixel.net/threads/3606096/"
             }
         ],
-        "hidden": true
+        "hidden": false
     },
     {
         "id": "actuallymobpacket",
@@ -32,9 +32,9 @@
         "creator": "Motor",
         "discordcode": "ABHrh6K3Fh",
         "categories": [
-            "1;All Skyblock"
+            "3;Skyblock"
         ],
-        "hidden": true
+        "hidden": false
     },
     {
         "id": "dungeontexturepack",
@@ -56,9 +56,9 @@
             }
         ],
         "categories": [
-            "1;All Skyblock"
+            "3;Skyblock"
         ],
-        "hidden": true
+        "hidden": false
     },
     {
         "id": "actuallycompliment",
@@ -71,9 +71,9 @@
         "creator": "Motor",
         "discordcode": "ABHrh6K3Fh",
         "categories": [
-            "1;All Skyblock"
+            "3;Skyblock"
         ],
-        "hidden": true
+        "hidden": false
     },
     {
         "id": "actuallymobs",
@@ -85,9 +85,9 @@
         "creator": "Motor",
         "discordcode": "ABHrh6K3Fh",
         "categories": [
-            "1;All Skyblock"
+            "3;Skyblock"
         ],
-        "hidden": true
+        "hidden": false
     },
     {
         "id": "skymobs",
@@ -98,7 +98,7 @@
         "icon_scaling": "pixel",
         "creators": "TBlazeWarrior & Moulberry",
         "categories": [
-            "1;All Skyblock"
+            "3;Skyblock"
         ],
         "actions": [
             {
@@ -106,7 +106,7 @@
                 "link": "https://github.com/Moulberry/SBCustomMobTex/blob/master/SkyMobs.zip"
             }
         ],
-        "hidden": true
+        "hidden": false
     },
     {
         "id": "dwarvenassets",
@@ -119,8 +119,8 @@
         "creator": "Motor & nacrt",
         "discordcode": "ABHrh6K3Fh",
         "categories": [
-            "1;All Skyblock",
-            "2;Recommended Skyblock"
+            "3;Skyblock",
+            "4;Recommended Skyblock"
         ],
         "actions": [
             {
@@ -132,7 +132,7 @@
                 "link": "https://hypixel.net/threads/3797121/"
             }
         ],
-        "hidden": true
+        "hidden": false
     },
     {
         "id": "vtay",
@@ -142,9 +142,9 @@
         "icon": "vtays.png",
         "creator": "vTay",
         "categories": [
-            "1;All Skyblock"
+            "3;Skyblock"
         ],
-        "hidden": true,
+        "hidden": false,
         "actions": [
             {
                 "method": "hover",
@@ -167,7 +167,7 @@
         "creator": "Rainbowcraft2",
         "discordcode": "dcdsnvG4Q4",
         "categories": [
-            "1;All Skyblock"
+            "3;Skyblock"
         ],
         "actions": [
             {
@@ -179,7 +179,7 @@
                 "link": "https://hypixel.net/threads/3470904/"
             }
         ],
-        "hidden": true
+        "hidden": false
     },
     {
         "id": "nameless",
@@ -189,7 +189,7 @@
         "icon": "nameless.png",
         "creator": "Smolegit",
         "categories": [
-            "1;All Skyblock"
+            "3;Skyblock"
         ],
         "actions": [
             {
@@ -202,7 +202,7 @@
                 "link": "https://discord.gg/XXxSuX8VMX"
             }
         ],
-        "hidden": true
+        "hidden": false
     },
     {
         "id": "hp+",
@@ -235,7 +235,7 @@
         "icon_scaling": "pixel",
         "creator": "Sluzeeey",
         "categories": [
-            "1;All Skyblock"
+            "3;Skyblock"
         ],
         "actions": [
             {
@@ -243,7 +243,7 @@
                 "link": "https://hypixel.net/threads/3527502/"
             }
         ],
-        "hidden": true
+        "hidden": false
     },
     {
         "id": "kmp",
@@ -254,7 +254,7 @@
         "icon": "kmp.png",
         "creator": "Kiocifer",
         "categories": [
-            "1;All Skyblock"
+            "3;Skyblock"
         ],
         "actions": [
             {
@@ -262,7 +262,7 @@
                 "link": "https://hypixel.net/threads/3604212/"
             }
         ],
-        "hidden": true
+        "hidden": false
     },
     {
         "id": "worldsandbeyond",
@@ -273,7 +273,7 @@
         "creator": "Skeletony",
         "discordcode": "BtAYyxf3W8",
         "categories": [
-            "1;All Skyblock"
+            "3;Skyblock"
         ],
         "actions": [
             {
@@ -285,7 +285,7 @@
                 "link": "https://hypixel.net/threads/3597207/"
             }
         ],
-        "hidden": true
+        "hidden": false
     },
     {
         "id": "sbov",
@@ -297,7 +297,7 @@
         "creator": "Stef, Saikage, and sporkspoon",
         "discordcode": "uwy3rwPpmV",
         "categories": [
-            "1;All Skyblock"
+            "3;Skyblock"
         ],
         "actions": [
             {
@@ -306,7 +306,7 @@
                 "link": "https://discord.gg/uwy3rwPpmV"
             }
         ],
-        "hidden": true
+        "hidden": false
     },
     {
         "id": "hqdark",
@@ -318,8 +318,8 @@
         "creator": "Packs HQ Team",
         "discordcode": "KwvMQ4T",
         "categories": [
-            "2;Recommended Skyblock",
-            "1;All Skyblock"
+            "4;Recommended Skyblock",
+            "3;Skyblock"
         ],
         "actions": [
             {
@@ -332,7 +332,7 @@
                 "link": "https://packshq.com/content/packs/"
             }
         ],
-        "hidden": true
+        "hidden": false
     },
     {
         "id": "hq16f",
@@ -344,7 +344,7 @@
         "creator": "Packs HQ Team",
         "discordcode": "KwvMQ4T",
         "categories": [
-            "1;All Skyblock"
+            "3;Skyblock"
         ],
         "actions": [
             {
@@ -362,7 +362,7 @@
             }
         ],
         "outdated": true,
-        "hidden": true
+        "hidden": false
     },
     {
         "id": "hq32f",
@@ -374,7 +374,7 @@
         "creator": "ImperiaL",
         "discordcode": "KwvMQ4T",
         "categories": [
-            "1;All Skyblock"
+            "3;Skyblock"
         ],
         "actions": [
             {
@@ -392,7 +392,7 @@
             }
         ],
         "outdated": true,
-        "hidden": true
+        "hidden": false
     },
     {
         "id": "actuallyassets",
@@ -405,7 +405,7 @@
         "creator": "Motor",
         "discordcode": "ABHrh6K3Fh",
         "categories": [
-            "1;All Skyblock"
+            "3;Skyblock"
         ],
         "actions": [
             {
@@ -422,7 +422,7 @@
                 "link": "https://www.planetminecraft.com/texture-pack/actuallyassets-hypixel-skyblock-v-10/"
             }
         ],
-        "hidden": true
+        "hidden": false
     },
     {
         "id": "fsr",
@@ -433,8 +433,8 @@
         "creator": "FurfSky Reborn Team",
         "discordcode": "jMPnPnUEAS",
         "categories": [
-            "2;Recommended Skyblock",
-            "1;All Skyblock"
+            "4;Recommended Skyblock",
+            "3;Skyblock"
         ],
         "actions": [
             {
@@ -451,7 +451,7 @@
                 "link": "https://furfsky.github.io/"
             }
         ],
-        "hidden": true
+        "hidden": false
     },
     {
         "id": "smollicons",
@@ -459,8 +459,8 @@
         "display": "Smol icons",
         "description": "Simple pack that replaces the icons in the Skyblock menu UI text with minimal and smaller icons.",
         "categories": [
-            "2;Recommended Skyblock",
-            "1;All Skyblock"
+            "4;Recommended Skyblock",
+            "3;Skyblock"
         ],
         "icon": "smol_icons.png",
         "icon_scaling": "pixel",
@@ -471,26 +471,7 @@
                 "link": "https://hypixel.net/threads/1-8-9-smoll-icons-3.3766938/"
             }
         ],
-        "hidden": true
-    },
-    {
-        "id": "compliancedark",
-        "file": "Compliance 1.14 in 1.8 [v3] - Dark Mode.zip",
-        "display": "Compliance 32x [Dark Mode]",
-        "description": "Compliance 1.14 port - Dark mode version.",
-        "icon": "compliance.png",
-        "hidden": false,
-        "creator": "Compliance Team",
-        "categories": [
-            "3;All PvP"
-        ],
-        "actions": [
-            {
-                "icon": "compliance team logo.png",
-                "text": "Website",
-                "link": "https://compliancepack.net/"
-            }
-        ]
+        "hidden": false
     },
     {
         "id": "defaultpackport",
@@ -499,9 +480,7 @@
         "description": "Default 1.14 port.",
         "icon": "default.png",
         "creator": "Qwuiblington & Motor",
-        "enabled": true,
         "categories": [
-            "4;Recommended PvP",
             "3;All PvP"
         ],
         "actions": [
@@ -512,25 +491,6 @@
             {
                 "text": "Curseforge",
                 "link": "https://www.curseforge.com/minecraft/texture-packs/actually-correct-1-14-texture-backport/"
-            }
-        ]
-    },
-    {
-        "id": "compliance",
-        "file": "Compliance 1.14 in 1.8 [v4].zip",
-        "display": "1.14 Compliance 32x",
-        "description": "Compliance 1.14 port.",
-        "icon": "compliance team logo.png",
-        "creator": "Compliance Team",
-        "categories": [
-            "3;All PvP"
-        ],
-        "hidden": false,
-        "actions": [
-            {
-                "icon": "compliance team logo.png",
-                "text": "Website",
-                "link": "https://compliancepack.net/"
             }
         ]
     },
