@@ -1760,6 +1760,115 @@
         "creator": "Sk1er LLC",
         "discordcode": "sk1er"
     },
+    {
+        "id": "sbe",
+        "forge_id": "SkyblockExtras",
+        "enabled": false,
+        "hidden": false,
+        "file": "SkyblockExtras-2.1.9.4.jar",
+        "url": "https://cdn.discordapp.com/attachments/679032627411550229/929843597505880104/SkyblockExtras-2.1.9.4.jar",
+        "display": "SkyBlock Extras [I]",
+        "description": "Enhances the Hypixel Skyblock Gaming Experience.",
+        "icon": "sbe.png",
+        "command": "/sbe",
+        "categories": [
+            "8;Skyblock"
+        ],
+        "warning": {
+            "lines": [
+                "You need to have previously bought the mod in order to use it.",
+                "This mod is against EULA because its paid.",
+                "",
+                "",
+                "Use anyway?"
+            ]
+        }
+    },
+    {
+        "id": "replaymod",
+        "forge_id": "replaymod",
+        "enabled": false,
+        "hidden": false,
+        "file": "replaymod-1.8.9-2.6.3.jar",
+        "url": "https://www.replaymod.com/download/download_new.php?version=1.8.9-2.6.3",
+        "display": "Replay Mod [I]",
+        "description": "Allows to record, relive and share your experience.",
+        "icon": "replay.png",
+        "categories": [
+            "7;Others"
+        ]
+    },
+    {
+        "id": "quickplay",
+        "forge_id": "quickplay",
+        "enabled": false,
+        "hidden": false,
+        "file": "Quickplay-1.8.9-2.0.7.jar",
+        "url": "https://github.com/QuickplayMod/quickplay/releases/download/2.0.7/Quickplay-1.8.9-2.0.7.jar",
+        "display": " [I]",
+        "description": "Allows Hypixel users to quickly join games and execute functions on the network.",
+        "icon": "quickplay.png",
+        "categories": [
+            "2;GUI"
+        ]
+    },
+    {
+        "id": "mumblelink",
+        "forge_id": "MumbleLink",
+        "enabled": false,
+        "hidden": false,
+        "file": "MumbleLink-1.8.9-4.1.4.jar",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/mumblelink/download/2327154/file",
+        "display": "Mumble Link [I]",
+        "description": "Allows you to hear where voices come from and how far away they are!",
+        "icon": "mumble.png",
+        "categories": [
+            "7;Others"
+        ]
+    },
+    {
+        "id": "rpd",
+        "forge_id": "resource_pack_display",
+        "enabled": false,
+        "hidden": false,
+        "file": "ResourcePackDisplay-1.4-Beta.jar",
+        "url": "https://github.com/1fxe/Resource-Pack-Display/releases/download/v1.4/ResourcePackDisplay-1.4-Beta.jar",
+        "display": "Resource Pack Display [I]",
+        "description": "Displays your resource pack + extra features ",
+        "icon": "rpd.png",
+        "categories": [
+            "3;HUD"
+        ]
+    },
+    {
+        "id": "hycord",
+        "forge_id": "hycord",
+        "enabled": false,
+        "hidden": false,
+        "file": "HyCord-1.2.0.jar",
+        "url": "https://github.com/DeDiamondPro/HyCord/releases/download/1.2.0/HyCord-1.2.0.jar",
+        "display": "HyCord [I]",
+        "description": "Adds discord and hypixel integration ",
+        "icon": "dediamondpro.png",
+        "categories": [
+            "7;Others"
+        ]
+    },
+    {
+        "id": "autowho",
+        "forge_id": "autowhoreborn",
+        "enabled": false,
+        "hidden": false,
+        "file": "autoWhoReborn-1.0.jar",
+        "url": "https://github.com/Maximusbarcz/AutoWho-Reborn/releases/download/1.0/autoWhoReborn-1.0.jar",
+        "creator": "maximusbar",
+        "display": "AutoWho Reborn [I]",
+        "description": "Does /who at the start of a game. Useful for overlays",
+        "icon": "github.png",
+        "categories": [
+            "4;QOL"
+        ]
+    },
     {    "id": "wyvtils",
         "forge_id": "wyvtils",
         "enabled": false,
