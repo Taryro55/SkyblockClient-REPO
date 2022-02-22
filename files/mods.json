@@ -254,9 +254,7 @@
             }
         ],
         "files": [
-            "config/patcher.toml",
-            "config/patcher_sounds.toml"
-        ],
+            "config/patcher.toml"        ],
         "categories": [
             "1;Recommended"
         ]
