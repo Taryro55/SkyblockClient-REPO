@@ -46,7 +46,7 @@
 [lobby]
 
 	[lobby.general]
-		limbo_limiter_fps = 1
+		limbo_limiter_fps = 15
 		limbo_limiter = true
 
 	[lobby.entities]
