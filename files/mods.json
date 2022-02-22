@@ -22,11 +22,6 @@
                 "creator": "Zlepper and Paint_Ninja",
                 "link": "https://www.curseforge.com/minecraft/mc-mods/its-the-little-things"
             }
-        ],
-        "config": true,
-        "files": [
-            "config/itlt.cfg",
-            "config/itlt/icon.png"
         ]
     },
     {
