@@ -223,7 +223,7 @@
             }
         ],
         "categories": [
-            "3;All PvP"
+            "1;PvP"
         ]
     },
     {
@@ -481,7 +481,7 @@
         "icon": "default.png",
         "creator": "Qwuiblington & Motor",
         "categories": [
-            "3;All PvP"
+            "1;PvP"
         ],
         "actions": [
             {
@@ -495,14 +495,186 @@
         ]
     },
     {
-        "id": "Sammyfault",
+        "id": "sammyfault",
         "file": "! §2Sammyfault §a[16x].zip",
         "display": "Sammyfault 16x",
         "description": "Sammygreen 150k texture pack",
         "icon": "sammygreen.png",
         "creator": "Kenoh",
         "categories": [
-            "3;All PvP"
+            "1;PvP"
+        ],
+        "hidden": false
+    },
+    {
+        "id": "acidicblitzz",
+        "file": "1.8 AciDicBliTzz Short Sword Pack By TBNRnorton.zip",
+        "display": "AciDicBliTzz Short Sword",
+        "description": "Gamerboy80 Pack",
+        "icon": "acidicblitzz.png",
+        "creator": "TBNRnorton",
+        "categories": [
+            "1;PvP"
+        ],
+        "hidden": false
+    },
+    {
+        "id": "acidicblitzz_revamp",
+        "file": "! §2AciDicBliTzz §8Revamp §8[§7Updated§8].zip",
+        "display": "AciDicBliTzz Revamp",
+        "icon": "acidicblitzz.png",
+        "categories": [
+            "1;PvP"
+        ],
+        "hidden": false
+    },
+    {
+        "id": "novis",
+        "file": "! §1Novis §f[REVAMP].zip",
+        "display": "Novis",
+        "icon": "novis.png",
+        "categories": [
+            "1;PvP"
+        ],
+        "hidden": false
+    },
+    {
+        "id": "reddust",
+        "file": "! §4RedDust V2 §8[§464x§8].zip",
+        "display": "RedDust",
+        "icon": "reddust.png",
+        "categories": [
+            "1;PvP"
+        ],
+        "hidden": false
+    },
+    {
+        "id": "testtickles",
+        "file": "! §4Testicles §8[16x].zip",
+        "display": "Test Tickles",
+        "icon": "testtickles.png",
+        "categories": [
+            "1;PvP"
+        ],
+        "hidden": false
+    },
+    {
+        "id": "midnight",
+        "file": "! §9midnight §8[§f16§9x§8]§f.zip",
+        "display": "Midnight",
+        "icon": "midnight.png",
+        "categories": [
+            "1;PvP"
+        ],
+        "hidden": false
+    },
+    {
+        "id": "soros",
+        "file": "! §b§lSoros §3[16x].zip",
+        "display": "Soros",
+        "icon": "soros.png",
+        "categories": [
+            "1;PvP"
+        ],
+        "hidden": false
+    },
+    {
+        "id": "aquari",
+        "file": "! §baq§3uar§r§li.zip",
+        "display": "Aquari",
+        "icon": "aquari.png",
+        "categories": [
+            "1;PvP"
+        ],
+        "hidden": false
+    },
+    {
+        "id": "tylarzz",
+        "file": "!Â§bTylarzz50kREDEDIT.zip",
+        "display": "Tylarzz",
+        "icon": "tylarzz.png",
+        "categories": [
+            "1;PvP"
+        ],
+        "hidden": false
+    },
+    {
+        "id": "dynamicduorevamp",
+        "file": "§bDynamic §7Duo §8Revamp §8[§732x§8].zip",
+        "display": "Dynamic Duo Revamp",
+        "icon": "dynamicduorevamp.png",
+        "categories": [
+            "1;PvP"
+        ],
+        "hidden": false
+    },
+    {
+        "id": "pastelic",
+        "file": "!   §7pastelic §7v§f3 §bdefault.zip",
+        "display": "Pastelic",
+        "icon": "pastelic.png",
+        "categories": [
+            "1;PvP"
+        ],
+        "hidden": false
+    },
+    {
+        "id": "prism",
+        "file": "! §fp§9rism §8[§f16§9x§8].zip",
+        "display": "Prism",
+        "icon": "prism.png",
+        "categories": [
+            "1;PvP"
+        ],
+        "hidden": false
+    },
+    {
+        "id": "tightfault",
+        "file": "! Tightfault [Revamp].zip",
+        "display": "Tightfault",
+        "icon": "tightfault.png",
+        "categories": [
+            "1;PvP"
+        ],
+        "hidden": false
+    },
+    {
+        "id": "nohuh",
+        "file": "! §dNohuh 20k.zip",
+        "display": "Nohuh",
+        "icon": "nohuh.png",
+        "categories": [
+            "1;PvP"
+        ],
+        "hidden": false
+    },
+    {
+        "id": "luvonox",
+        "file": "! §4Luvonox §8[§f16x§8] §8[§4Original§8].zip",
+        "display": "Luvonox",
+        "icon": "luvonox.png",
+        "categories": [
+            "1;PvP"
+        ],
+        "hidden": false
+    },
+    {
+        "id": "deos",
+        "file": "! §6§lDeos 2k Pack§r§6 (v1.3).zip",
+        "display": "Deos",
+        "icon": "deos.png",
+        "categories": [
+            "1;PvP"
+        ],
+        "hidden": false
+    },
+    {
+        "id": "venal",
+        "file": "§7venaL [Revamp].zip",
+        "display": "VenaL",
+        "icon": "venal.png",
+        "categories": [
+            "1;PvP"
         ],
         "hidden": false
     }
