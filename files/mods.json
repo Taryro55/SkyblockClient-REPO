@@ -122,7 +122,6 @@
         "icon": "wyvest.png",
         "command": "/damagetint",
         "creator": "W-OVERFLOW",
-        "config": true,
         "files": [
             "W-OVERFLOW/DamageTint/damagetint.toml"
         ],
@@ -254,7 +253,6 @@
                 "link": "https://sk1er.club/mods/patcher"
             }
         ],
-        "config": true,
         "files": [
             "config/patcher.toml",
             "config/patcher_sounds.toml"
@@ -290,7 +288,6 @@
         "categories": [
             "4;QOL"
         ],
-        "config": true,
         "files": [
             "config/W-OVERFLOW/CrashPatch/SKYCLIENT"
         ]
@@ -319,7 +316,6 @@
                 "link": "https://github.com/W-OVERFLOW/Hytilities-Reborn"
             }
         ],
-        "config": true,
         "files": [
             "config/W-OVERFLOW/Hytilities Reborn/blockhighlight.toml",
             "config/W-OVERFLOW/Hytilities Reborn/hytilitiesreborn.toml"
@@ -345,7 +341,6 @@
                 "link": "https://www.youtube.com/watch?v=7B8v384K0fM"
             }
         ],
-        "config": true,
         "files": [
             "config/blockoverlay.cfg"
         ],
@@ -632,7 +627,6 @@
                 "link": "https://www.curseforge.com/minecraft/mc-mods/apec"
             }
         ],
-        "config": true,
         "categories": [
             "2;All Skyblock"
         ],
@@ -1212,7 +1206,6 @@
         "icon": "wyvest.png",
         "command": "/chatting",
         "creator": "W-OVERFLOW",
-        "config": true,
         "files": [
             "config/W-OVERFLOW/Chatting/chatshortcuts.json",
             "config/W-OVERFLOW/Chatting/chattabs.json",
@@ -1323,7 +1316,6 @@
         ],
         "discordcode": "woverflow",
         "hidden": false,
-        "config": true,
         "files": [
             "config/W-OVERFLOW/REDACTION/redaction.toml"
         ]
@@ -1379,7 +1371,6 @@
                 "link": "https://sk1er.club/mods/keystrokesmod"
             }
         ],
-        "config": true,
         "files": [
             "config/keystrokes.json"
         ],
@@ -1472,7 +1463,6 @@
                 "link": "https://sk1er.club/mods/level_head"
             }
         ],
-        "config": true,
         "files": [
             "config/levelhead.json"
         ],
@@ -1701,7 +1691,6 @@
             "4;QOL"
         ],
         "discordcode": "sk1er",
-        "config": true,
         "files": [
             "config/lobbysounds.toml"
         ]
@@ -1754,7 +1743,6 @@
         ],
         "creator": "W-OVERFLOW (Wyvest)",
         "discordcode": "woverflow",
-        "config": true,
         "files": [
             "config/W-OVERFLOW/Tabulous/tabulous.toml"
         ]
