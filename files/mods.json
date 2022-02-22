@@ -124,7 +124,7 @@
         "creator": "W-OVERFLOW",
         "config": true,
         "files": [
-            "config/W-OVERFLOW/DamageTint/damagetint.toml"
+            "W-OVERFLOW/DamageTint/damagetint.toml"
         ],
         "actions": [
             {
