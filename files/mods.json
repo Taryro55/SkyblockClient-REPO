@@ -254,7 +254,8 @@
             }
         ],
         "files": [
-            "config/patcher.toml"        ],
+            "config/patcher.toml"
+        ],
         "categories": [
             "1;Recommended"
         ]
