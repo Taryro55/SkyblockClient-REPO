@@ -418,10 +418,9 @@
             }
         ],
         "categories": [
-            "2;All Skyblock",
-            "3;Recommended Skyblock"
+            "8;Skyblock"
         ],
-        "hidden": true
+        "hidden": false
     },
     {
         "id": "sbhud",
@@ -439,7 +438,7 @@
         "creator": "ThatGravyBoat",
         "discordcode": "moulberry",
         "categories": [
-            "2;All Skyblock"
+            "8;Skyblock"
         ],
         "actions": [
             {
@@ -457,7 +456,7 @@
                 "Use anyway?"
             ]
         },
-        "hidden": true
+        "hidden": false
     },
     {
         "id": "neu",
@@ -496,14 +495,13 @@
             }
         ],
         "categories": [
-            "2;All Skyblock",
-            "3;Recommended Skyblock"
+            "8;Skyblock"
         ],
         "config": true,
         "files": [
             "config/notenoughupdates/config.json"
         ],
-        "hidden": true
+        "hidden": false
     },
     {
         "id": "dsm",
@@ -543,9 +541,9 @@
             }
         ],
         "categories": [
-            "2;All Skyblock"
+            "8;Skyblock"
         ],
-        "hidden": true
+        "hidden": false
     },
     {
         "id": "skytils",
@@ -583,10 +581,9 @@
             }
         ],
         "categories": [
-            "2;All Skyblock",
-            "3;Recommended Skyblock"
+            "8;Skyblock"
         ],
-        "hidden": true
+        "hidden": false
     },
     {
         "id": "apec",
@@ -627,12 +624,12 @@
             }
         ],
         "categories": [
-            "2;All Skyblock"
+            "8;Skyblock"
         ],
         "files": [
             "config/Apec/Settings.txt"
         ],
-        "hidden": true
+        "hidden": false
     },
     {
         "id": "cowlection",
@@ -678,9 +675,9 @@
             }
         ],
         "categories": [
-            "2;All Skyblock"
+            "8;Skyblock"
         ],
-        "hidden": true
+        "hidden": false
     },
     {
         "id": "sbp",
@@ -714,9 +711,9 @@
             }
         ],
         "categories": [
-            "2;All Skyblock"
+            "8;Skyblock"
         ],
-        "hidden": true
+        "hidden": false
     },
     {
         "id": "dg",
@@ -751,9 +748,9 @@
             }
         ],
         "categories": [
-            "2;All Skyblock"
+            "8;Skyblock"
         ],
-        "hidden": true
+        "hidden": false
     },
     {
         "id": "drm",
@@ -771,7 +768,7 @@
         "command": "/room",
         "discordcode": "7B5RbsArYK",
         "categories": [
-            "2;All Skyblock"
+            "8;Skyblock"
         ],
         "actions": [
             {
@@ -784,7 +781,7 @@
                 "link": "https://github.com/Quantizr/DungeonRoomsMod"
             }
         ],
-        "hidden": true
+        "hidden": false
     },
     {
         "id": "timechanger",
@@ -955,7 +952,7 @@
             }
         ],
         "categories": [
-            "2;All Skyblock"
+            "8;Skyblock"
         ],
         "warning": {
             "lines": [
@@ -971,7 +968,7 @@
             "skymobs",
             "actuallymobs"
         ],
-        "hidden": true
+        "hidden": false
     },
     {
         "id": "rpm",
