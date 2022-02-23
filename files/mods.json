@@ -1838,7 +1838,7 @@
         "url": "https://github.com/1fxe/Resource-Pack-Display/releases/download/v1.4/ResourcePackDisplay-1.4-Beta.jar",
         "display": "Resource Pack Display [I]",
         "description": "Displays your resource pack + extra features ",
-        "icon": "rpd.png",
+        "icon": "1fxe.png",
         "categories": [
             "3;HUD"
         ],
