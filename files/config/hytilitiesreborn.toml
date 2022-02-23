@@ -96,7 +96,7 @@
 
 	[chat.parties]
 		remove_all_chat_message = true
-		party_chat_swapper = true
+		party_chat_swapper = false
 		chat_swapper_channel = 0
 		chat_swapper = true
 
