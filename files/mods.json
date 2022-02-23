@@ -1808,7 +1808,7 @@
         "hidden": false,
         "file": "Quickplay-1.8.9-2.0.7.jar",
         "url": "https://github.com/QuickplayMod/quickplay/releases/download/2.0.7/Quickplay-1.8.9-2.0.7.jar",
-        "display": " [I]",
+        "display": "Quickplay [I]",
         "description": "Allows Hypixel users to quickly join games and execute functions on the network.",
         "icon": "quickplay.png",
         "categories": [
