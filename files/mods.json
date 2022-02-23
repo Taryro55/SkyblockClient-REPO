@@ -193,6 +193,9 @@
                 "text": "Github",
                 "link": "https://github.com/koxx12-dev/Skyclient-Cosmetics"
             }
+        ],
+        "files": [
+            "config/SkyclientCosmetics/skyclientcosmetics.toml"
         ]
     },
     {

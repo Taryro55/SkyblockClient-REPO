@@ -1,0 +1,46 @@
+
+[debug]
+
+	[debug.debug]
+		show_debug_options = false
+
+	[debug.chat]
+		debug_display_tags = false
+		debug_regex = false
+
+	[debug.logs]
+		show_debug_info_in_logs = false
+
+	[debug.tags]
+		debug_tags = false
+
+[main]
+
+	[main.discord_rich_presence]
+		discord_rpc_img_text = "SkyClient is cool"
+		discord_rpc = false
+		discord_rpc_first_line = "%player% is very cool"
+		discord_rpc_second_line = ""
+		sbe_sucks_mode = false
+
+	[main.hypixel]
+		hypixel_api_key = ""
+
+	[main.tags]
+		show_custom_tags = true
+		shorten_custom_tags = false
+		tags_in_display_names = false
+
+[fixes]
+
+	[fixes.main]
+		display_name_fix = false
+
+[misc]
+
+	[misc.chat]
+		first_time_message = true
+
+	[misc.gui]
+		hide_pet_lisena = false
+
