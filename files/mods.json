@@ -1838,7 +1838,16 @@
         "icon": "rpd.png",
         "categories": [
             "3;HUD"
-        ]
+        ],
+        "warning": {
+            "lines": [
+                "This mod uses modcore.",
+                "Its not recommended as its not longer supported.",
+                "",
+                "",
+                "Use anyway?"
+            ]
+        }
     },
     {
         "id": "hycord",
