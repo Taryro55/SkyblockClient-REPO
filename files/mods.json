@@ -145,8 +145,8 @@
             "skyblockclientupdater"
         ],
         "forge_id": "skyblockclientupdater",
-        "file": "SkyblockClient-Updater-1.1.3.jar",
-        "url": "https://github.com/Taryro55/SkyblockClient-Updater/releases/download/v1.1.3/SkyblockClient-Updater-1.1.3.jar",
+        "file": "SkyblockClient-Updater-1.2.0.jar",
+        "url": "https://github.com/Taryro55/SkyblockClient-Updater/releases/download/v1.2.0/SkyblockClient-Updater-1.2.0.jar",
         "display": "SkyClient Updater",
         "description": "Adds in-game updater for the mods in SkyClient.",
         "enabled": true,
@@ -231,9 +231,9 @@
         "id": "patcher",
         "forge_id": "patcher",
         "enabled": true,
-        "file": "Patcher-1.8.0 (1.8.9).jar",
+        "file": "Patcher-1.8.1 (1.8.9).jar",
         "hash": "c89142adccbe833081a61ac0b09ab936859de826150d25a0719fc1603b8ce83b",
-        "url": "https://static.sk1er.club/repo/mods/patcher/1.8.0/1.8.9/Patcher-1.8.0%20(1.8.9).jar",
+        "url": "https://static.sk1er.club/repo/mods/patcher/1.8.1/1.8.9/Patcher-1.8.1%20(1.8.9).jar",
         "creator": "Sk1er LLC",
         "discordcode": "sk1er",
         "display": "Patcher",
@@ -554,8 +554,8 @@
             "st"
         ],
         "forge_id": "skytils",
-        "file": "Skytils-1.2.0-pre2.jar",
-        "url": "https://github.com/Skytils/SkytilsMod/releases/download/v1.2-pre2/Skytils-1.2.0-pre2.jar",
+        "file": "Skytils-1.2.0-pre4.jar",
+        "url": "https://github.com/Skytils/SkytilsMod/releases/download/v1.2.0-pre4/Skytils-1.2.0-pre4.jar",
         "display": "Skytils",
         "description": "Introduces some useful puzzle solvers, a reparty command, spam hider for Skyblock, and a ton more with lots to come in the future!",
         "icon": "skytils.png",
@@ -725,9 +725,8 @@
             "dg"
         ],
         "forge_id": "skyblock_dungeons_guide",
-        "file": "dungeonsguide-3.7.5.jar",
-        "hash": "deeb5380a9f34c1b62ab428bb867caccefb039b9d3e2857ca2a5389163744152",
-        "url": "https://github.com/Dungeons-Guide/Skyblock-Dungeons-Guide/releases/download/3.7.5/dungeonsguide-3.7.5.jar",
+        "file": "dungeonsguide-3.7.6.jar",
+        "url": "https://github.com/Dungeons-Guide/Skyblock-Dungeons-Guide/releases/download/3.7.6/dungeonsguide-3.7.6.jar",
         "creator": "Syeyoung",
         "display": "Dungeons Guide",
         "description": " A highly advanced Hypixel Skyblock dungeons mod, with secret waypoints (technically, it shows you the best path to the secrets), and other things.",
@@ -761,9 +760,8 @@
             "dungeonrooms"
         ],
         "forge_id": "dungeonrooms",
-        "file": "Dungeon_Rooms-3.3.0.jar",
-        "hash": "df6fbc7d921ec9d13864398868b6a9d723f547a3b194fa1b63e9df59810a928c",
-        "url": "https://github.com/Quantizr/DungeonRoomsMod/releases/download/v3.3.0/Dungeon_Rooms-3.3.0.jar",
+        "file": "Dungeon_Rooms-3.3.1.jar",
+        "url": "https://github.com/Quantizr/DungeonRoomsMod/releases/download/v3.3.1/Dungeon_Rooms-3.3.1.jar",
         "display": "Dungeon Rooms",
         "icon": "drm.png",
         "description": "Displays dungeon room id/name and adds waypoints for secrets.",
@@ -834,9 +832,8 @@
     {
         "id": "craftify",
         "forge_id": "craftify",
-        "file": "Craftify-1.0.0-beta-3.jar",
-        "hash": "4fbabf2214e156744395572334045183",
-        "url": "https://cdn.discordapp.com/attachments/923979897850966016/944361645608693770/Craftify-1.0.0-beta-3.jar",
+        "file": "Craftify-1.0.0-beta-5.jar",
+        "url": "https://cdn.discordapp.com/attachments/923979897850966016/949367200593100810/Craftify-1.0.0-beta-5.jar",
         "display": "Craftify",
         "description": "Show your Spotify songs ingame!",
         "icon": "tgb_icon.png",
@@ -907,9 +904,9 @@
             "chattriggers"
         ],
         "forge_id": "ct.js",
-        "file": "ctjs-2.0.2-1.8.9.jar",
-        "hash": "6260f5a875818132ce8e4052b403efb2ed35a85dd32c0f9a43023724ecfc2a34",
-        "url": "https://github.com/ChatTriggers/ChatTriggers/releases/download/2.0.2/ctjs-2.0.2-1.8.9.jar",
+        "file": "ctjs-2.0.3-1.8.9.jar",
+        "hash": "6776ee63ec04f6a2564d1729bbdad5f0f5b5d8e159bb4927543a44ba889e2cbd",
+        "url": "https://github.com/ChatTriggers/ChatTriggers/releases/download/2.0.3/ctjs-2.0.3-1.8.9.jar",
         "display": "Chat Triggers",
         "description": "A framework that allows the use of JavaScript to create 'minimods' called modules which is required for SoopyAddons and DungeonsUtilities, \nan entire website with so many more at the cost of some performance.",
         "icon": "chattriggers 48x.png",
@@ -1517,27 +1514,26 @@
     },
     {
         "id": "oofmod",
-        "forge_id": "refractionoof",
+        "forge_id": "oofmod",
         "file": "OofMod-4.1.0.jar",
-        "hash": "6ed05bbf2a3a503935abe7116c1d7ecd0dc87a40ea307ab965e2a655bd631853",
+        "hash": "5d804aeaaa10957fbf137c7cf9bd362108acaf2a",
         "url": "https://github.com/Deftu/OofMod/releases/download/4.1.0/OofMod-4.1.0.jar",
-        "display": "OofMod [I]",
-        "description": "Play a custom sound when killing another player using .wav files.",
-        "icon": "monkey.png",
+        "display": "OofMod",
+        "description": "Play custom sounds when killing other players.",
+        "icon": "deftu.png",
         "creator": "Deftu, Powns, Refraction, Sk1er LLC",
         "command": "/oofmod",
         "discordcode": "dFb277Kexf",
-        "categories": [
-            "7;Others"
-        ],
         "actions": [
             {
-                "icon": "monkey.png",
-                "text": "Website",
-                "link": "https://github.com/Deftu/OofMod/"
+                "icon": "github.png",
+                "text": "Github",
+                "link": "https://github.com/Deftu/OofMod"
             }
         ],
-        "hidden": false
+        "categories": [
+            "7;Others"
+        ]
     },
     {
         "id": "particlesenhanced",
@@ -1575,6 +1571,42 @@
             }
         ],
         "hidden": false
+    },
+    {
+        "id": "synthesis",
+        "nicknames": [
+            "synth"
+        ],
+        "forge_id": "synthesis",
+        "file": "Synthesis-0.2.0.jar",
+        "hash": "be178ec3525487a3a52f8867647a2d9630fad1e7511913202c4b2ac2cc7a43bf",
+        "url": "https://cdn.discordapp.com/attachments/931696052724203550/937623068715651092/Synthesis-0.2.0.jar",
+        "display": "Synthesis",
+        "description": "Hypixel SkyBlock QoL Mod. A collection of random mod features not to be found anywhere else.",
+        "enabled": false,
+        "categories": [
+            "8;Skyblock"
+        ],
+        "icon": "github.png",
+        "creator": "SirDesco, Antonio32A",
+        "discord": "vAUuKSwbp6",
+        "actions": [
+            {
+                "icon": "guide.png",
+                "text": "guide",
+                "link": "https://github.com/SynthesisMod/Synthesis/blob/main/README.md"
+            },
+            {
+                "icon": "github.png",
+                "text": "github",
+                "link": "https://github.com/SynthesisMod/Synthesis"
+            },
+            {
+                "icon": "discord icon.png",
+                "text": "discord",
+                "link": "https://discord.com/invite/vAUuKSwbp6"
+            }
+        ]
     },
     {
         "id": "hychat",
