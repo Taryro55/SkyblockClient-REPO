@@ -6,7 +6,6 @@
 - Particles Enhanced (Author: isXander)
 - BehindYouV3 (Author: W-OVERFLOW & isXander)
 
-
 ## What do the mods do?
 
 ### Damage Tint
@@ -45,8 +44,6 @@ Go to Minecraft's controls menu to bind your keys. Use `/behindyou` to open the 
 [Particles Enhanced](https://modrinth.com/mod/particlesenhanced)
 
 [BehindYouV3](https://github.com/W-OVERFLOW/BehindYouV3)
-
-
 
 #### Discords
 [isXander](https://discord.gg/AJv5ZnNT8q)
