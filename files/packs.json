@@ -512,6 +512,14 @@
         ]
     },
     {
+        "id": "compliance",
+        "file": "Compliance-32x-1.8.9.zip",
+        "display": "Compliance 32x",
+        "description": "Compliance 1.8.9.",
+        "icon": "compliance team logo.png",
+        "creator": "Compliance Team"
+    },
+    {
         "id": "sammyfault",
         "file": "! §2Sammyfault §a[16x].zip",
         "display": "Sammyfault 16x",
